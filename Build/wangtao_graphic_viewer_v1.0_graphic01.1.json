@@ -1,0 +1,16 @@
+{
+"companyName": "wangtaoGraphicsViewer_v1.0",
+"productName": "0",
+"productVersion": "0.1",
+"dataUrl": "wangtao_graphic_viewer_v1.0_graphic01.1.data.unityweb",
+"wasmCodeUrl": "wangtao_graphic_viewer_v1.0_graphic01.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "wangtao_graphic_viewer_v1.0_graphic01.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
